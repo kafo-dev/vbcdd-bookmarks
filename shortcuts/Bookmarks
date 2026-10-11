@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/sh
+# Termux:Widget entry: pick a bookmark and open it in the browser. The
+# picker draws a full-screen list, so this file belongs in ~/.shortcuts and
+# not in ~/.shortcuts/tasks.
+exec "${HOME}/bin/bookmarks" pick

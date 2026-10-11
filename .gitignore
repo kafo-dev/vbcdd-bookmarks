@@ -1,0 +1,6 @@
+# Build output.
+/bookmarks
+/vbcdd-bookmarks
+
+# `vale` styles, fetched by `vale sync`
+styles/
